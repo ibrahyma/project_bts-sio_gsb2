@@ -56,6 +56,8 @@ Exécuter le projet :
 - Si les serveurs est éteint, suivre les étapes du démarrage d'EasyPHP
 - Cliquer sur "Portable Directory" puis sur "project_bts-sio_gsb2-master/"
 
+## Quelques comptes disponibles 
+
 Vous pouvez vous connecter en tant que visiteur :
 - Login : lvillachane
 - Mdp : jux7g
