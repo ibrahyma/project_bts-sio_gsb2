@@ -38,3 +38,15 @@ Exécuter le projet :
 
 - Si vous avez éteint les services, suivre les étapes du démarrage d'EasyPHP
 - Cliquer sur "Portable Directory" puis sur "project_bts-sio_gsb2-master/"
+
+Vous pouvez vous connecter en tant que visiteur :
+Login : lvillachane
+Mdp : jux7g
+
+En tant que gestionnaire :
+Login : gestion
+Mdp : gestion
+
+En tant que comptable :
+Login : comptable
+Mdp : comptable
