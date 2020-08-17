@@ -2,6 +2,17 @@
 
 C'est une plateforme de gestion de notes de frais comprenant un espace membres avec 3 types d'utilisateurs : un visiteur, un gestionnaire, un comptable.
 
+Le visiteur peut :
+- Saisir une fiche de frais
+- Consulter ses fiches de frais
+- Afficher les frais forfaitisés
+- Affichier le récapitulatif des frais
+
+Le gestionnaire peut :
+- Ajouter ou modifier un visiteur
+
+Le comptable peut :
+- Valider une fiche de frais
 
 Requis :
 - Une plateforme de développement (tel que EasyPHP, WampServer, ...) ou un serveur HTTP & base de données
@@ -25,7 +36,7 @@ Supposons que j'ai installé mon serveur dans "C:\Program", un dossier du nom de
 Démarrage d'EasyPHP :
 - Ouvrir EasyPHP (le faisant apparaître dans la barre d'outils)
 - Click sur l'icône puis dans l'onglet Server, click sur "Start/Restart All Servers"
-- Attendre environ 15 secondes (le temps que le serveur démarre)
+- Attendre environ 15 secondes (le temps du démarrage des serveurs)
 - Click sur l'icône puis sur "Open Dashboard"
 
 Installation de la base de données :
@@ -40,7 +51,7 @@ EasyPHP se trouve par exemple dans "C:\Program\EasyPHP-Devserver-17".
 
 Exécuter le projet :
 
-- Si vous avez éteint les services, suivre les étapes du démarrage d'EasyPHP
+- Si les serveurs est éteint, suivre les étapes du démarrage d'EasyPHP
 - Cliquer sur "Portable Directory" puis sur "project_bts-sio_gsb2-master/"
 
 Vous pouvez vous connecter en tant que visiteur :
