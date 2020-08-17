@@ -1,5 +1,8 @@
 # Mon projet GSB2
 
+C'est une plateforme de gestion de notes de frais comprenant un espace membres avec 3 types d'utilisateurs : un visiteur, un gestionnaire, un comptable.
+
+
 Requis :
 - Une plateforme de développement (tel que EasyPHP, WampServer, ...) ou un serveur HTTP & base de données
 - L'archive du projet
@@ -22,6 +25,7 @@ Supposons que j'ai installé mon serveur dans "C:\Program", un dossier du nom de
 Démarrage d'EasyPHP :
 - Ouvrir EasyPHP (le faisant apparaître dans la barre d'outils)
 - Click sur l'icône puis dans l'onglet Server, click sur "Start/Restart All Servers"
+- Attendre environ 15 secondes (le temps que le serveur démarre)
 - Click sur l'icône puis sur "Open Dashboard"
 
 Installation de la base de données :
