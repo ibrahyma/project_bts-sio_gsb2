@@ -1,7 +1,5 @@
-# My GSB2 project
-It's my BTS SIO project with the PHP language on the MVC architecture.
+# Mon projet GSB2
+Pour installer le projet :
 
-Required :
-- HTTP and database server
-- A PHP version
-- Create 'netbouquet' database and import the .sql file : located on 'bdd/' folder
+- Il vous faut une plateforme de développement (tel que EasyPHP, WampServer, ...)
+- Créer une base de données appelée "netbouquet" et importer le fichier .sql se trouvant dans le dossier /bdd/
