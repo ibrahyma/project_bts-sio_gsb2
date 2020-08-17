@@ -14,6 +14,8 @@ Le gestionnaire peut :
 Le comptable peut :
 - Valider une fiche de frais
 
+## Vous voulez utiliser la plateforme ? Suivez les instructions ci-dessous (concernant Windows)
+
 Requis :
 - Une plateforme de développement (tel que EasyPHP, WampServer, ...) ou un serveur HTTP & base de données
 - L'archive du projet
