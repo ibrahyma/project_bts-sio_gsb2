@@ -30,7 +30,7 @@ EasyPHP se trouve par exemple dans "C:\Program\EasyPHP-Devserver-17".
 
 - Ouvrir "MySQL Administration : PhpMyAdmin"
 - Dans l'onglet à gauche, cliquer sur "Nouvelle base de données"
-- Créer une base de données appelée "netbouquet" et 
+- Créer une base de données appelée "gsb2"
 - Dans la barre de navigation, cliquer sur "Importer" puis "Choisir un fichier"
 - Importer le fichier gsb2.sql se trouvant dans le dossier "C:\Program\EasyPHP-Devserver-17\eds-www\project_bts-sio_gsb2-master\bdd" (ce sont, bien-entendu, des données factices)
 - Se diriger en bas de la page et valider
