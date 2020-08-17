@@ -5,7 +5,6 @@ Requis :
 - L'archive du projet
 
 Installation de la plateforme de développement (ici EasyPHP Devserver 17) :
-[PASSEZ CETTE ETAPE SI VOUS AVEZ VOTRE SERVEUR DE DEVELOPPEMENT]
 
 - Télécharger l'exécutable : https://www.easyphp.org/save-easyphp-devserver-latest.php
 - Ouvrir le fichier pour débuter l'installation
